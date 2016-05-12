@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ test()
+comment1.params=original
+comment1.target=java.lang.String\ get(java.lang.String)
+numComments=2
