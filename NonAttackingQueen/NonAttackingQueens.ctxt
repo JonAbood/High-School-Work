@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NonAttackingQueens()
+comment1.params=queenNumber\ col
+comment1.target=boolean\ canPlace(int,\ int)
+comment2.params=queenNumber
+comment2.target=void\ solve(int)
+comment3.params=
+comment3.target=void\ printSolution()
+comment4.params=
+comment4.target=void\ main()
+numComments=5
