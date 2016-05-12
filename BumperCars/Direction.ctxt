@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Direction()
+comment1.params=
+comment1.target=Direction\ toRight()
+comment2.params=
+comment2.target=Direction\ toLeft()
+comment3.params=
+comment3.target=Direction\ toOpposite()
+comment4.params=
+comment4.target=Direction\ randomDirection()
+numComments=5

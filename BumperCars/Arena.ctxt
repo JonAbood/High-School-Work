@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=nsSize_\ ewSize_
+comment0.target=Arena(int,\ int)
+comment1.params=
+comment1.target=int\ getNSsize()
+comment2.params=
+comment2.target=int\ getEWsize()
+comment3.params=car\ ns\ ew
+comment3.target=void\ addCar(Car,\ int,\ int)
+comment4.params=
+comment4.target=void\ step()
+comment5.params=car\ dir
+comment5.target=void\ carMove(Car,\ Direction)
+comment6.params=ns\ ew
+comment6.target=int\ occupiedBy(int,\ int)
+comment7.params=
+comment7.target=void\ printArena()
+comment8.params=ns\ ew\ dir
+comment8.target=int[]\ newPos(int,\ int,\ Direction)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

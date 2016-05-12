@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numCars\ theArena
+comment0.target=Simulation(int,\ Arena)
+comment1.params=
+comment1.target=void\ step()
+comment2.params=
+comment2.target=void\ printBumpCounts()
+numComments=3
